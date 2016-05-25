@@ -1,0 +1,25 @@
+{
+  "name": "gulp",
+  "version": "0.0.1",
+  "description": "Gulp: less, minify-css, concat, rename, notify, autoprefixer, uglify.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.1.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3"
+  },
+  "scripts": {
+    "test": "Hello :)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "not"
+  },
+  "author": "Alexandr Talala",
+  "license": "UNLICENSED"
+}
